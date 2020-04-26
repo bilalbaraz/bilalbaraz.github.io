@@ -9,7 +9,21 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/github/</loc>
+    <lastmod>2020-04-26T23:28:04+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/how-to-create-and-deploy-hugo-site-with-github-pages/</loc>
+    <lastmod>2020-04-26T23:28:04+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2020-04-26T23:28:04+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -23,13 +37,14 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-04-26T23:28:04+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
