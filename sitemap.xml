@@ -3,6 +3,21 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2020-04-26T23:28:04+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/how-to-create-and-deploy-hugo-site-with-github-pages/</loc>
+    <lastmod>2020-04-26T23:28:04+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2020-04-26T23:28:04+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

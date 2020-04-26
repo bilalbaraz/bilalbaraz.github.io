@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bilal Baraz - Computer Engineer</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Bilal Baraz - Computer Engineer</description>
+    <title>Posts on Bilal Baraz - Computer Engineer</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Bilal Baraz - Computer Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Apr 2020 23:28:04 +0300</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
