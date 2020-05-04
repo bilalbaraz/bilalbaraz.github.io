@@ -6,10 +6,21 @@
     <description>Recent content on Bilal Baraz - Computer Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2020 23:28:04 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 22:07:27 +0300</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git Fatal Refusing to Merge Unrelated Histories Error</title>
+      <link>http://localhost:1313/post/git-fatal-refusing-to-merge-unrelated-histories-error/</link>
+      <pubDate>Mon, 04 May 2020 22:07:27 +0300</pubDate>
+      
+      <guid>http://localhost:1313/post/git-fatal-refusing-to-merge-unrelated-histories-error/</guid>
+      <description>I created a repository on GitHub. Repository contains a file called License. I have an existing repository on my local environment. When I try to push that repository, got an error: fatal: refusing to merge unrelated history
+I tried to pull from remote source. But did not work. I got an error like that.
+I was looking for any solution on Google. I found it quickly. I did append a flag: --allow-unrelated-histories.</description>
+    </item>
     
     <item>
       <title>How to Create and Deploy Hugo Site With Github Pages</title>
